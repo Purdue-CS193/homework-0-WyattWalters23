@@ -17,8 +17,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+ # What I'm excited about for CS 193
+- Being able to improve my skills in the Computer Science Field
+- Being able to collaborate with my peers on projects
+- Meeting others with the same interests as me
 
 1. Numbered
 2. List
